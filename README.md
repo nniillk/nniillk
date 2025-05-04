@@ -20,7 +20,7 @@
 </table>
 <!-- BACKEND -->
 <table style="border: 1px solid black">
-  <thead><tr><th colspan="2">Backend</th><th colspan="2">Databases</th><th colspan="1">Framework</th></tr></thead>
+  <thead><tr><th colspan="7">Backend</th></thead>
   <tbody align="center">
     <tr>
       <td><img src="https://www.paigeniedringhaus.com/static/13beeafbbd98000e9dda382fa8733bed/41d15/java-logo-hero.webp" title="Java" width="85"/></td>
@@ -28,13 +28,18 @@
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50"/></td>
       <td><img src="https://www.golden-team.org/static/services/laravel.webp" title="Laravel" width="50"/></td>
+      <td><img src="https://images.ctfassets.net/zojzzdop0fzx/3rs1655HQlhY6LmplLdYzm/7049f7c9357d0598256b556aa837b91c/node.svg?fm=webp&w=3840&q=75" title="Node.js" width="50"/></td>
+      <td><img src="https://discord.js.org/apple-touch-icon.png" title="Discord.js" width="50"/></td>
     </tr>
     <tr>
       <td>$$\text{\color[rgb]{0.2,0.8,0.2}Advanced}$$</td>
       <td>$$\text{\color[rgb]{1,0.6,0}Intermediate}$$</td>
       <td>$$\text{\color[rgb]{0.2,0.8,0.2}Advanced}$$</td>
       <td>$$\text{\color[rgb]{0.2,0.8,0.2}Advanced}$$</td>
-      <td>$$\text{\color[rgb]{1,0.2,0}Basic}$$</td></tr>
+      <td>$$\text{\color[rgb]{1,0.2,0}Basic}$$</td>
+      <td>$$\text{\color[rgb]{1,0.2,0}Basic}$$</td>
+      <td>$$\text{\color[rgb]{1,0.2,0}Basic}$$</td>
+    </tr>
   </tbody>
 </table>
 <!-- CONTROL DE VERSIONES -->
