@@ -1,9 +1,12 @@
 <h1 align="center">Nil</h1>
 <!-- <h4 align="center"><i>:hammer_and_wrench: $$\text{\color[rgb]{1,1,0}Under Construction}$$ :hammer_and_wrench:</i></h4> -->
 
+<h3>Sobre mi</h3>
+<p>Hola, soc en Nil i tinc vint anys. Estic estudiant el cicle superior de <span title="Desenvolupament d'Aplicacions Web"> <strong>DAW</strong> </span> i aviat començaré les meves pràctiques en una empresa.</p>
 
-<h3>Les meves habilitats
-</h3>
+<br>
+
+<h3>Les meves habilitats</h3>
 <!-- FRONTEND -->
 <table style="border: 1px solid black">
   <thead><tr><th colspan="4">Frontend</th></tr></thead>
