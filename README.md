@@ -39,7 +39,7 @@
 </table>
 <!-- CONTROL DE VERSIONES -->
 <table style="border: 1px solid black">
-  <thead><tr><th colspan="3">Control de Versions</th></tr></thead>
+  <thead><tr><th colspan="3">Version Control</th></tr></thead>
   <tbody align="center">
     <tr>
       <td><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="git" width="50"/></td>
