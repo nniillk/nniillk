@@ -2,7 +2,7 @@
 <!-- <h4 align="center"><i>:hammer_and_wrench: $$\text{\color[rgb]{1,1,0}Under Construction}$$ :hammer_and_wrench:</i></h4> -->
 
 <h3>Sobre mi</h3>
-<p>Hola, soc en Nil i tinc vint anys. Estic estudiant el cicle superior de <span title="Desenvolupament d'Aplicacions Web"> <strong>DAW</strong> </span> i aviat començaré les meves pràctiques en una empresa.</p>
+<p>Hola, soc en Nil i tinc vint anys. Estic estudiant el cicle superior de <span title="Desenvolupament d'Aplicacions Web"> <strong>DAW</strong> </span> i aviat començaré les meves pràctiques en una empresa.<br>Estic motivat per continuar aprenent i millorant com a desenvolupador cada dia!</p>
 
 <br>
 
