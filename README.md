@@ -2,7 +2,7 @@
 <!-- <h4 align="center"><i>:hammer_and_wrench: $$\text{\color[rgb]{1,1,0}Under Construction}$$ :hammer_and_wrench:</i></h4> -->
 
 <h3>Sobre mi</h3>
-<p>Hola, soc en Nil i tinc vint anys. Estic estudiant el cicle superior de <span title="Desenvolupament d'Aplicacions Web"> <strong>DAW</strong> </span> i aviat començaré les meves pràctiques en una empresa.<br>Estic motivat per continuar aprenent i millorant com a desenvolupador cada dia!</p>
+<p>Hola, soc en Nil, tinc vint anys i soc de Barcelona. Estic estudiant el cicle superior de <span title="Desenvolupament d'Aplicacions Web"> <strong>DAW</strong> </span> i estic molt motivat per continuar aprenent i millorar com a desenvolupador cada dia!</p>
 
 <br>
 
@@ -49,22 +49,27 @@
     </tr>
   </tbody>
 </table>
-<!-- CONTROL DE VERSIONES -->
-<table style="border: 1px solid black">
-  <thead><tr><th colspan="3">Version Control</th></tr></thead>
-  <tbody align="center">
-    <tr>
-      <td><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="git" width="40"/></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" title="GitHub" width="40"/></td>
-    </tr>
-    <tr>
-      <td>$$\text{\color[rgb]{1,0.6,0}Intermediate}$$</td>
-      <td>$$\text{\color[rgb]{1,0.6,0}Intermediate}$$</td>
-    </tr>
-  </tbody>
-</table>
+
+<details>
+  <summary>Més habilitats...</summary>
+  <br>
+  <!-- CONTROL DE VERSIONES -->
+  <table style="border: 1px solid black">
+    <thead><tr><th colspan="3">Version Control</th></tr></thead>
+    <tbody align="center">
+      <tr>
+        <td><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="git" width="40"/></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" title="GitHub" width="40"/></td>
+      </tr>
+      <tr>
+        <td>$$\text{\color[rgb]{1,0.6,0}Intermediate}$$</td>
+        <td>$$\text{\color[rgb]{1,0.6,0}Intermediate}$$</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <br>
 
-<h3>Projectes</h3>
+<h3>Projects</h3>
 <p>:hammer_and_wrench: $$\text{\color[rgb]{1,1,0}Aviat}$$ :hammer_and_wrench:</p>
