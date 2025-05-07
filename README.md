@@ -68,5 +68,5 @@
 
 <br>
 
-<h3>Projects</h3>
+<h3>Projectes</h3>
 <p>:hammer_and_wrench: $$\text{\color[rgb]{1,1,0}Aviat}$$ :hammer_and_wrench:</p>
